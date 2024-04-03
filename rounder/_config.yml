@@ -1,0 +1,13 @@
+title: RounderTeeTime
+email: motesventures@gmail.com
+description: >
+  RounderTeeTime is the ultimate app for booking golf tee times. Find and book the best tee times at courses near you with ease. Whether planning ahead or looking for a last-minute deal, we've got you covered.
+baseurl: "" # You might want to set this if your site is not at the root of your domain. e.g., "/blog"
+twitter_username: rounderteetimes # Replace with your Twitter handle
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# You can add other configurations as needed, but these are the basics to get you started.
