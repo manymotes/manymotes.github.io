@@ -9,3 +9,7 @@ Open Course is your go-to app for finding and booking the best golf tee times. B
 ### Support
 
 For any inquiries, support issues, or feedback, please feel free to contact us at [theopencourse.9.18@gmail.com](mailto:theopencourse.9.18@gmail.com). We're here to help and ensure you have the best experience with Open Course.
+
+### Support
+
+To delete your account/account data, email us at [theopencourse.9.18@gmail.com](mailto:theopencourse.9.18@gmail.com).
