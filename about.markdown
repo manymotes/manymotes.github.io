@@ -12,4 +12,4 @@ For any inquiries, support issues, or feedback, please feel free to contact us a
 
 ### Support
 
-To delete your account/account data, email us at [theopencourse.9.18@gmail.com](mailto:theopencourse.9.18@gmail.com).
+To delete your account/account data, email us at [theopencourse.9.18@gmail.com](mailto:theopencourse.9.18@gmail.com). Or use the Delete Profile button in the app.
