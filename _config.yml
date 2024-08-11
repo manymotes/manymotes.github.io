@@ -1,3 +1,5 @@
+
+layout: default
 title: OpenCourse
 email: theopencourse.9.18@gmail.com
 description: >
@@ -11,6 +13,3 @@ plugins:
   - jekyll-feed
 
 # You can add other configurations as needed, but these are the basics to get you started.
-
-head_html: |
-  <meta name="google-site-verification" content="F_ybYDHWuWl_ZUNSD2Ghb4JqiL8eyQUahemVA_pL5As" />
